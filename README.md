@@ -3,7 +3,7 @@ Module 9 : Advanced data storage and retrieval
 
 ## Background:
 (Imaginary past) I went to Hawaii and loved my time there. After coming back from my vacation, I felt that it is time for me to switch gears and become my own boss and start a business and invest some of my savings in Surf n’ Shake where I will sell surf boats and shakes. 
-I prepared a business plan and presented it to a well-known surfer W. Avy, who already owned a business earlier. He was really serious about this investment I did not want to repeat the mistakes he made in a past business venture, so, he has requested to run a analytics on the weather data he has for the beautiful island of Oahu. 
+I prepared a business plan and presented it to a well-known surfer Mr. W. Avy, who already owned a business earlier. He was really serious about this investment and I did not want to repeat the mistakes he made in a past business venture, so, he has requested to run a analytics on the weather data he has for the beautiful island of Oahu. 
 The analysis was done in the following steps: 
 1.	The rain data was checked to see the amount of precipitation received during the duration of 23.08.2016 to 22.08.2017. 
 2.	Statistical data was seen to find out the details of precipitation levels.
